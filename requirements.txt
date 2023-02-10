@@ -44,7 +44,7 @@ importlib-metadata==4.0.1; python_version < "3.8" and python_version >= "3.6"
 inflection==0.5.1; python_version >= "3.5"
 ipykernel==5.5.3; python_version >= "3.6"
 ipython-genutils==0.2.0; python_full_version >= "3.6.1" and python_version >= "3.6"
-ipython==7.16.1; python_version >= "3.6"
+ipython==8.10.0; python_version >= "3.6"
 ipywidgets==7.6.3
 iso8601==0.1.14
 jedi==0.18.0; python_version >= "3.6"
